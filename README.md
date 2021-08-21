@@ -25,7 +25,7 @@ This project is built to demonstrate how to create a generate time-based one tim
 [![MIT License][License SVG]][L]
 
 [Source SVG]: https://img.shields.io/badge/view-source-brightgreen.svg
-[src]: index.html
+[src]: totp
 [License SVG]: https://img.shields.io/badge/license-MIT-blue.svg
 
 <!-- TABLE OF CONTENTS -->
@@ -109,8 +109,8 @@ You are welcome to clone the repo and run a copy of this on local machine or web
 License
 -------
 
-This is free and open source software. You can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of it, under the terms of the MIT License. See [LICENSE.md][L] for details.
+This is free and open source software. You can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of it, under the terms of the MIT License. See [LICENSE][L] for details.
 
-This software is provided "AS IS", WITHOUT WARRANTY OF ANY KIND, express or implied. See [LICENSE.md][L] for details.
+This software is provided "AS IS", WITHOUT WARRANTY OF ANY KIND, express or implied. See [LICENSE][L] for details.
 
-[L]: LICENSE.md
+[L]: LICENSE
