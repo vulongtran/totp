@@ -38,12 +38,11 @@ This project is built to demonstrate how to create a generate time-based one tim
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#resources">Resources</a></li>
   </ol>
 </details>
 
