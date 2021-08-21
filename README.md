@@ -74,18 +74,15 @@ To get a local copy up and running follow these simple steps.
    ```
 
 
-
-
 <!-- CONTACT -->
 ## Contact
 * Vu Long Tran - [@vulongtran](https://twitter.com/vulongtran)
 * Project Link: [https://github.com/vulongtran/totp](https://github.com/vulongtran/totp)
 
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements/ References
+* [Github - OTP Auth](https://hectorm.github.io/otpauth)
 * [Github - TOTP Generator](https://github.com/jaden/totp-generator)
-* [Github - otpauth](https://github.com/hectorm/otpauth)
 * [Website hosting - Github Pages](https://pages.github.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->

@@ -46,7 +46,7 @@
       </div>
 
       <div class="content">
-        <span class="has-text-grey is-size-7">Updating in {{ updatingIn }} seconds</span>
+        <span class="has-text-grey is-size-7">Updating OTP in {{ updatingIn }} seconds</span>
         <progress class="progress is-info is-small" v-bind:value="period - updatingIn" :max="period"></progress>
       </div>
 
@@ -60,6 +60,9 @@
         </a>
       </div>
 
+      <div class="security">
+        <p class="security-notes" id="security">{{ algorithm }}</p>
+      </div>
     </div>
 
   </section>
@@ -68,7 +71,7 @@
     <div class="container">
       <div class="content has-text-centered">
         <p>
-          Built by <a href="https://dan.hersam.com">Dan Hersam</a>. Source on <a href="https://github.com/jaden/totp-generator">Github</a>.
+          Modified version of these OTP Generators: <a href="https://hectorm.github.io/otpauth/">OTPAuth</a>. <a href="https://github.com/jaden/totp-generator">TOTP Generator</a>.
         </p>
         <p>
           <a class="icon" href="https://github.com/jgthms/bulma">
