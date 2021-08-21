@@ -16,7 +16,7 @@ This project is built to demonstrate how to create a generate time-based one tim
     <br />
     <a href="https://pages.vulongtran.com/totp">View TOTP Demo Website</a>
     ·
-    <a href="https://github.com/vulongtran/vulongtran.github.io/issues">Report Bug</a>
+    <a href="https://github.com/vulongtran/totp/issues">Report Bug</a>
     ·
   </p>
 </p>
