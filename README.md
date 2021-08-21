@@ -25,7 +25,7 @@ This project is built to demonstrate how to create a generate time-based one tim
 [![MIT License][License SVG]][L]
 
 [Source SVG]: https://img.shields.io/badge/view-source-brightgreen.svg
-[src]: totp
+[src]: https://github.com/vulongtran/totp
 [License SVG]: https://img.shields.io/badge/license-MIT-blue.svg
 
 <!-- TABLE OF CONTENTS -->
