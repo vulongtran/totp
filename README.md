@@ -47,7 +47,7 @@ This project is built to demonstrate how to create a generate time-based one tim
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This project is built to demonstrate how to create a generate time-based one time passwords in the browser.
-[![TOTP demo page]](https://pages.vulongtran.com/totp)
+[[TOTP demo page]](https://pages.vulongtran.com/totp)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -58,27 +58,19 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/vulongtran/vulongtran.github.io.git
+   git clone https://github.com/vulongtran/totp.git
    ```
-2. Install NPM packages
+2. Change into TOTP directory
    ```sh
-   npm install
+   ls
+   cd totp
    ```
 
 
-#### Okta CDN
+#### TOTP Token Generator
 Generate time-based one time passwords in the browser.
 
 This page lets you easily generate a time-based one time password (TOTP) entirely in the web browser in case you ever lose access to your phone.
-
-It uses the excellent 
-
-This demo website will use Okta's login assets directly from Okta's CDN. We are using this for the following reasons:
-1. It's the fastest easy way to get started with the widget
-2. Want to keep things simple
-3. We do not have an existing build website design that is already leveraging external dependencies such as [npm](https://www.npmjs.com/).
-
-
 
 
 <!-- CONTACT -->
