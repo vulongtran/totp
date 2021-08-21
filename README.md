@@ -72,6 +72,13 @@ To get a local copy up and running follow these simple steps.
    ls
    cd totp
    ```
+<!-- CUSTOMISATIONS -->
+## Customisations
+We can customise how we use our OTP Generator further. 
+
+
+
+
 
 
 <!-- CONTACT -->
