@@ -11,7 +11,7 @@
   <p align="center">
 This project is built to demonstrate how to create a generate time-based one time passwords in the browser.
     <br />
-    <a href="https://github.com/vulongtran/vulongtran.github.io/totp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/vulongtran/totp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://pages.vulongtran.com/totp">View TOTP Demo Website</a>
@@ -76,7 +76,7 @@ This page lets you easily generate a time-based one time password (TOTP) entirel
 <!-- CONTACT -->
 ## Contact
 Vu Long Tran - [@vulongtran](https://twitter.com/vulongtran)
-Project Link: [https://github.com/vulongtran/vulongtran.github.io](https://github.com/vulongtran/vulongtran.github.io)
+Project Link: [https://github.com/vulongtran/totp](https://github.com/vulongtran/totp)
 
 
 <!-- ACKNOWLEDGEMENTS -->
