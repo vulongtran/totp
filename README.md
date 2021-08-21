@@ -87,8 +87,8 @@ You are welcome to clone the repo and run a copy of this on local machine or web
 * Vu Long Tran - [@vulongtran](https://twitter.com/vulongtran)
 * Project Link: [https://github.com/vulongtran/totp](https://github.com/vulongtran/totp)
 
-<!-- ACKNOWLEDGEMENTS & REFERENCES-->
-## References
+<!-- ACKNOWLEDGEMENTS & RESOURCES -->
+## Resources
 * [Github - OTP Auth](https://hectorm.github.io/otpauth)
 * [Github - TOTP Generator](https://github.com/jaden/totp-generator)
 * [Website hosting - Github Pages](https://pages.github.com/)
