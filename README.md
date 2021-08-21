@@ -49,6 +49,13 @@ This project is built to demonstrate how to create a generate time-based one tim
 This project is built to demonstrate how to create a generate time-based one time passwords in the browser.
 [[TOTP demo page]](https://pages.vulongtran.com/totp)
 
+#### TOTP Token Generator
+Generate time-based one time passwords in the browser.
+
+This page lets you easily generate a time-based one time password (TOTP) entirely in the web browser. This is useful if you want to do some quick testing and/or in case you ever lose access to your phone.
+
+You will need a copy of yours ercret key
+
 <!-- GETTING STARTED -->
 ## Getting Started
 To get a local copy up and running follow these simple steps.
@@ -67,16 +74,12 @@ To get a local copy up and running follow these simple steps.
    ```
 
 
-#### TOTP Token Generator
-Generate time-based one time passwords in the browser.
-
-This page lets you easily generate a time-based one time password (TOTP) entirely in the web browser in case you ever lose access to your phone.
 
 
 <!-- CONTACT -->
 ## Contact
-Vu Long Tran - [@vulongtran](https://twitter.com/vulongtran)
-Project Link: [https://github.com/vulongtran/totp](https://github.com/vulongtran/totp)
+* Vu Long Tran - [@vulongtran](https://twitter.com/vulongtran)
+* Project Link: [https://github.com/vulongtran/totp](https://github.com/vulongtran/totp)
 
 
 <!-- ACKNOWLEDGEMENTS -->
