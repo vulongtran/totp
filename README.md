@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://pages.vulongtran.com/totp">
-    <img src="https://pages.vulongtran.com/images/dejavu-logo.png" alt="DejaVu" width=400px height=200px>
+    <img src="https://pages.vulongtran.com/images/dejavu-logo.png" alt="DejaVu">
   </a>
 
   <h3 align="center">DejaVu</h3>
