@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/vulongtran/vulongtran.github.io">
-    <img src="https://pages.vulongtran.com/images/dejavu-logo.png" alt="DejaVu">
+  <a href="https://pages.vulongtran.com/totp">
+    <img src="https://pages.vulongtran.com/images/dejavu-logo.png" alt="DejaVu" width=400px height=200px>
   </a>
 
   <h3 align="center">DejaVu</h3>
@@ -53,6 +53,9 @@ Generate time-based one time passwords in the browser.
 
 This page lets you easily generate a time-based one time password (TOTP) entirely in the web browser. This is useful if you want to do some quick testing to see what OTP is generated from your TOTP secret key. 
 
+  <a href="https://pages.vulongtran.com/totp">
+    <img src="https://pages.vulongtran.com/img/totp-generator.png" alt="DejaVu">
+  </a>
 
 <!-- GETTING STARTED -->
 ## Getting Started
