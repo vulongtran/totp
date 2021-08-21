@@ -22,7 +22,22 @@
         <img src="https://pages.vulongtran.com/images/dejavu-logo.png" alt="DejaVu" width=400px height=200px>
       </a>
       <h1 class="title">TOTP Token Generator</h1>
+      <div class="content">
+        <span class="has-text-grey is-size-7">Updating OTP in {{ updatingIn }} seconds</span>
+        <progress class="progress is-info is-small" v-bind:value="period - updatingIn" :max="period"></progress>
+      </div>
 
+      <div class="box">
+        <p class="title is-size-1 has-text-centered" id="token">{{ token }}</p>
+      </div>
+
+      <div class="control is-clearfix">
+        <a id="clipboard-button" alignment="right" data-clipboard-target="#token">Click to copy token to clipboard</a>
+        <a class="button is-large is-light is-pulled-right" id="clipboard-button" data-clipboard-target="#token" title="Copy token to clipboard">
+          <img src="img/clippy.svg" height="36" width="36">
+        </a>
+      </div>
+      
       <div class="field">
         <label class="label is-uppercase">Your Secret Key</label>
         <div class="control">
@@ -42,22 +57,6 @@
         <div class="control">
           <input class="input" type="text" v-model="period" placeholder="Usually 30">
         </div>
-      </div>
-
-      <div class="content">
-        <span class="has-text-grey is-size-7">Updating OTP in {{ updatingIn }} seconds</span>
-        <progress class="progress is-info is-small" v-bind:value="period - updatingIn" :max="period"></progress>
-      </div>
-
-      <div class="box">
-        <p class="title is-size-1 has-text-centered" id="token">{{ token }}</p>
-      </div>
-
-      <div class="control is-clearfix">
-        <a id="clipboard-button" alignment="right" data-clipboard-target="#token">Click to copy token to clipboard</a>
-        <a class="button is-large is-light is-pulled-right" id="clipboard-button" data-clipboard-target="#token" title="Copy token to clipboard">
-          <img src="img/clippy.svg" height="36" width="36">
-        </a>
       </div>
     </div>
 
